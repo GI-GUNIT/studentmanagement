@@ -17,7 +17,7 @@ use below command to run simple webserver for front end
 
 all aboue configer properly this system should work
 
-system acount info
+System acount info
 -----------------------------------------------------------
 
 user name - admin / password - admin 
