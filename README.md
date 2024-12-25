@@ -21,8 +21,10 @@ System acount info
 -----------------------------------------------------------
 
 user name - admin / password - admin 
-this acount can update , delete , create new student info
+
+!!!! this acount can update , delete , create new student info
 
 user name - user / password - user 
-this acount can only see student resalt 
+
+!!! this acount can only see student resalt 
 
