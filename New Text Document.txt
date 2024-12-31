@@ -1,0 +1,16 @@
+docker run -p 8080:8080 demo-0.0.1-SNAPSHOT-app
+
+
+docker run -p 3000:3000 \
+  -e DB_HOST=your-mysql-host \
+  -e DB_USER=your-mysql-user \
+  -e DB_PASSWORD=your-mysql-password \
+  -e DB_NAME=your-database-name \
+  my-node-app
+
+
+docker compose build
+
+docker compose up
+
+
